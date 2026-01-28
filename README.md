@@ -86,5 +86,5 @@ This project analyzes Amazon’s sales data from 2014 to 2018 to identify key re
 
 
 
-*Your Name*
+
 
