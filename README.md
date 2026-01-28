@@ -60,7 +60,7 @@ This project analyzes Amazon’s sales data from 2014 to 2018 to identify key re
 
 ## Tools & Technologies
 
-* **Data Analysis:** Python (Pandas, NumPy)
+* **Data Analysis:** Python (Pandas)
 * **Visualization:** Matplotlib, Seaborn / Power BI 
 * **Reporting:** Jupyter Notebook, Excel
 
